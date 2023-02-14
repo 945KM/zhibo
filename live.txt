@@ -971,6 +971,7 @@ IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 
 康熙王朝,http://tvmvip110.club/douyu.php?id=9650836
 雍正王朝,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882
+雍正王朝2,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
 康熙微服私访记1,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 康熙微服私访记2,http://tvmvip110.club/douyu.php?id=7550220
 庆余年,http://tvmvip110.club/douyu.php?id=7489563
@@ -986,8 +987,14 @@ IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
 新三国1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
 新三国2,http://tvmvip110.club/douyu.php?id=276200
+新水浒,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
 家有儿女,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=df240bbb669a014868f85aec1541d39c&wsTime=61c072b3&uid=581998485&seqid=1640520627000.0&t=103&uuid=3042724002&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+士兵突击1,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+士兵突击2,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
+民兵葛二蛋,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+龙门客栈,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+医馆笑传,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+杨光的快乐生活,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
 
 燕双鹰专场,http://data.3g.yy.com/live/hls/1352227153/1352227153
 神探狄仁杰,http://data.3g.yy.com/live/hls/1351755386/1351755386
@@ -2908,10 +2915,4 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 
