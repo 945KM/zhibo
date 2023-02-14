@@ -329,7 +329,8 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 中国蓝TV17,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 中国蓝TV18,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 
-🐼重庆有线,#genre#
+🐼｜重庆有线,#genre#
+
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
