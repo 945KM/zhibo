@@ -2905,3 +2905,13 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+
