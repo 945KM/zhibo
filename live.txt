@@ -43,6 +43,7 @@ CCTV-5⁺体育赛事,https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
 CCTV-5⁺体育赛事,http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-5⁺体育赛事,http://xuehanwei.my03.com:8888/udp/239.253.92.82:8013
 CCTV-5⁺体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV-6电影,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
 CCTV-6电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
 CCTV-6电影,http://39.134.115.221:8080/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-6电影,https://live.v1.mk/api/ghyx.php?id=CCTV6HD_6000
@@ -109,6 +110,7 @@ CCTV-15音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd,http://live.cool
 CCTV-15音乐,http://39.134.115.221:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-15音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-16奥林匹克,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV-16奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV-16奥林匹克,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
 CCTV-16奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
