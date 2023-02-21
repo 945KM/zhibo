@@ -1428,7 +1428,7 @@ NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.
 哆啦A梦1,http://zzy789.xyz/bili.php?id=482946
 哆啦A梦2,http://epg.112114.xyz/douyu/9445279
 
-蜡笔小新1，,http://zzy789.xyz/bili.php?id=10375360
+蜡笔小新1,http://zzy789.xyz/bili.php?id=10375360
 蜡笔小新2,http://zzy789.xyz/bili.php?id=21570935
 蜡笔小新3,http://zzy789.xyz/bili.php?id=22693306
 
@@ -1439,7 +1439,7 @@ NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.
 小猪佩奇,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 名侦探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 名侦探柯南1,http://epg.112114.xyz/douyu/6484910
-名侦探柯南2。,http://epg.112114.xyz/douyu/5377297
+名侦探柯南2,http://epg.112114.xyz/douyu/5377297
 名侦探柯南3,http://epg.112114.xyz/douyu/1783144
 名侦探柯南4,http://epg.112114.xyz/douyu/7050342
 名侦探柯南5,http://epg.112114.xyz/douyu/7620081
